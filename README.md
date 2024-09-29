@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shuuc
-- 👀 I’m interested in mobile legend
+- 💻 I’m interested in mobile legend
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
